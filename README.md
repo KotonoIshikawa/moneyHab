@@ -1,5 +1,8 @@
 家計簿アプリ　（β）
 
+URL:
+https://habapp-3fe7a.web.app/
+
 ＜＜＜mobile非推奨＞＞＞
 
 言語
